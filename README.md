@@ -1,10 +1,16 @@
 # Breathe ESG: Carbon Data Ingestion Engine
 
-![Breathe ESG Dashboard](https://carbondataplatform.netlify.app/)
-
 A production-ready prototype built to ingest, normalize, and audit complex, disparate carbon emission data from enterprise systems (SAP, Utilities, and Corporate Travel). 
 
 **Live Demo:** [https://carbondataplatform.netlify.app/](https://carbondataplatform.netlify.app/)
+
+---
+
+## 📸 Screenshots
+
+| Dashboard Overview | Analyst Review | Data Ingestion |
+| :---: | :---: | :---: |
+| ![Dashboard Overview](screenshots/dashboard.png) | ![Analyst Review Table](screenshots/review.png) | ![Data Ingestion Portal](screenshots/ingestion.png) |
 
 ---
 
