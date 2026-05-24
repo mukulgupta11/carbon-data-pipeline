@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "TRIP-A100",
+      "status": "Ticketed",
+      "airDetails": {
+        "airline": "Lufthansa",
+        "ticketNumber": "220-12345678",
+        "departureDate": "2026-06-01T08:00:00Z",
+        "distance": 850
+      },
+      "hotelDetails": {
+        "propertyName": "Marriott Berlin",
+        "hotelCheckinDate": "2026-06-01",
+        "hotelCheckoutDate": "2026-06-04"
+      }
+    },
+    {
+      "id": "TRIP-B200",
+      "status": "Ticketed",
+      "airDetails": {
+        "airline": "United",
+        "ticketNumber": "016-87654321",
+        "departureDate": "2026-06-15T14:30:00Z",
+        "distance": 5400
+      }
+    }
+  ]
+}
