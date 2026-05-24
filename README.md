@@ -6,15 +6,9 @@ A production-ready prototype built to ingest, normalize, and audit complex, disp
 
 ---
 
-## 📸 Screenshots
 
-| Dashboard Overview | Analyst Review | Data Ingestion |
-| :---: | :---: | :---: |
-| ![Dashboard Overview](screenshots/dashboard.png) | ![Analyst Review Table](screenshots/review.png) | ![Data Ingestion Portal](screenshots/ingestion.png) |
 
----
-
-## 🏗 System Architecture
+## System Architecture
 
 The application uses a modern, decoupled architecture designed for high availability and strict data auditing. 
 
@@ -51,7 +45,7 @@ graph TD
 
 ---
 
-## ⚙️ The Ingestion Pipeline
+## The Ingestion Pipeline
 
 The core challenge of this assessment was normalizing unstructured data. Instead of blindly trusting incoming CSVs, the system employs an **Immutable Ledger Pipeline**.
 
@@ -81,7 +75,7 @@ sequenceDiagram
 
 ---
 
-## 📂 Project Structure & Deliverables
+## Project Structure & Deliverables
 
 This repository strictly adheres to the requested deliverables. Please refer to the specific markdown documents for deep-dives into the engineering decisions:
 
@@ -97,7 +91,7 @@ This repository strictly adheres to the requested deliverables. Please refer to 
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 If you wish to spin up the 2,000 auto-generated database records locally:
 
